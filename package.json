@@ -4,7 +4,7 @@
   "description": "Solution for the FE Guild 2019 PWA Workshop code labs.",
   "scripts": {
       "start": "http-server -c-1",
-      "deploy": "gh-pages -d ."
+      "deploy": "gh-pages -d pwa"
   },
   "repository": {
     "type": "git",
